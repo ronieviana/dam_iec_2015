@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Contatos Ronie</string>
+
+    <string name="texto_id">Id</string>
+    <string name="texto_nome">Nome</string>
+    <string name="texto_email">E-Mail</string>
+    <string name="texto_salvar">Salvar</string>
+    <string name="texto_limpar">Limpar</string>
+
+    <string name="texto_usuario">Usuário (usuario)</string>
+    <string name="texto_senha">Senha (senha)</string>
+    <string name="texto_entrar">Entrar</string>
+
+    <string name="texto_criar_novocontato">Criar novo Contato</string>
+    <string name="texto_contatos_inexistentes">Não existe nenhum contato cadastrado, toque no botão acima para iniciar a criação!</string>
+
+    <string name="title_activity_lista">Listagem de Contatos</string>
+    <string name="title_activity_cadastro">Cadastro de Contatos</string>
+
+    <string name="mensagem_alterar_contato">Toque Simples para editar...</string>
+</resources>
